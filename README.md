@@ -5,6 +5,7 @@ To use:
 You need a OpenAI and Discord APP API key. 
 
 https://discord.com/developers/docs/intro
+
 https://platform.openai.com/docs/overview
 
 Invite the APP from discord applications dashboard to the discord server you want to use. (usually a url link invite - then you pick the server from your own logged in)
