@@ -11,7 +11,7 @@ https://platform.openai.com/docs/overview
 
 Invite the APP from discord applications dashboard to the discord server you want to use. (usually a url link invite - then you pick the server from your own logged in)
 
-Create a channel in the discord server called "gupp_chat", this is where it will respond. 
+Create a text channel in the discord server called "gupp_chat", this is where it will respond. 
 
 On main computer/server that will run this code, export keys to ENV vars OPENAPI_KEY and DISCORD_KEY
 
@@ -22,6 +22,8 @@ export DISCORD_KEY=xxxxxxxxx
 ## Run
 
 "python3 discord_main.py"
+
+Interact with bot in previously created text gupp_chat discord channel (setup step)
 
 ## Commands
 
