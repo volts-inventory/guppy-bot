@@ -24,7 +24,11 @@ and run with
 
 "python3 discord_main.py"
 
+IN DISCORD COMMANDS:
+
 "!<name_of_conversation>" to change to new or existing chat thread
+
 "gupp stats" to see current convo
+
 "list conv" to see all existing conversations
 
