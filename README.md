@@ -1,4 +1,5 @@
-# ChatGPT backend Discord Chatbot with DB backend that can be reloaded based on time or conversation. 
+# GuppyBot
+### ChatGPT backend Discord Chatbot with DB backend that can be reloaded based on time or conversation. 
 
 ## Setup
 
