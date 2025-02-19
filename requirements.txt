@@ -1,0 +1,8 @@
+discord
+openai
+trafilatura
+pymongo
+speechrecognition
+pyaudio
+pyttsx3
+pynput 
