@@ -17,6 +17,7 @@ On main computer/server that will run this code, export keys to ENV vars OPENAPI
 eg.
 
 export OPENAPI_KEY=xxxxxxxxx
+
 export DISCORD_KEY=xxxxxxxxx
 
 and run with 
