@@ -1,6 +1,6 @@
-ChatGPT backend Discord Chatbot with DB backend that can be reloaded based on time or conversation. 
+# ChatGPT backend Discord Chatbot with DB backend that can be reloaded based on time or conversation. 
 
-# Setup
+## Setup
 
 You need a OpenAI and Discord APP API key. 
 
@@ -18,11 +18,11 @@ export OPENAPI_KEY=xxxxxxxxx
 
 export DISCORD_KEY=xxxxxxxxx
 
-# Run format
+## Run
 
 "python3 discord_main.py"
 
-# Commands
+## Commands
 
 "!<name_of_conversation>" to change to new or existing chat thread
 
